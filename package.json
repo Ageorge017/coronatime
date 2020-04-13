@@ -1,0 +1,23 @@
+{
+  "name": "coronatime",
+  "version": "1.0.0",
+  "description": "It's corona time!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthlouis/coronatime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthlouis/coronatime/issues"
+  },
+  "homepage": "https://github.com/prasanthlouis/coronatime#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.0"
+  }
+}
